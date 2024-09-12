@@ -1,0 +1,42 @@
+.container {
+    text-align: center;
+    margin-top: 5%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: solid;
+
+}
+.container input{
+    margin-bottom: 14px;
+    width: 25%;
+}
+.container button{
+    width: 10%;
+}
+.container h1{
+    margin-left: -22%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.city{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center ;
+    padding: 20px;
+    margin-top: 3%;
+    background-color: antiquewhite;
+    background-color: antiquewhite;
+    background-size: 100%;
+    color: black;
+
+}
+.city h1{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.9rem;
+}
+.degree{
+    font-size: 3.5rem;
+    margin-top: -1.5%;
+}
+.highlow{
+    margin-top: -2%;
+    font-size: 1.3rem;
+}
